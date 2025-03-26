@@ -8,6 +8,15 @@ El siguiente proyecto implemeta un crud básico usando las siguientes tecnologí
 - Node + Express  
 - Sequelize (usando una base de datos mysql)  
 - Zod (para la validación de los datos)  
+  
+    
+### Muestra:  
+  
+![](img/001.png)  
+![](img/002.png) 
+![](img/003.png)  
+![](img/004.png)  
+![](img/005.png)  
 
 ## Configuración del archivo `.env`
 Luego de clonar el repositorio debes hacer lo siguiente:  
